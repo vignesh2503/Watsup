@@ -3,3 +3,5 @@
 2. Enhansement 
 
 3. Full Features
+
+4. Hiding the last seen
